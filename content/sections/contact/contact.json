@@ -1,0 +1,13 @@
+{
+  "name": "Nalin Mehra",
+  "email": "nalinm01@gmail.com",
+  "description": "I'm always open to new and interesting opportunities! If you like what you've seen here, please don't hesitate to send me an email or linkedin connection.",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

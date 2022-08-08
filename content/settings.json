@@ -1,0 +1,41 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "www.nalinmehra.com/",
+    "title": "Nalin's Personal Website",
+    "titleTemplate": "%s · Nalin Mehra",
+    "description": "Nalin Mehra's personal website built with gatsby.",
+    "author": "Nalin Mehra",
+    "thumbnail": "../content/images/favicon.png",
+    "avatar": "../content/images/favicon.png",
+    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "social": {
+      "github": "https://github.com/nalinghub",
+      "linkedin": "https://www.linkedin.com/in/nalinmehra/",
+      "mail": "mailto:nalinm01@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Experience", "url": "/#experience" },
+        { "label": "Projects", "url": "/#projects"}
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume/"
+      },
+      "footer": [
+        { "label": "", "url": ""}
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": true,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

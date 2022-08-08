@@ -1,0 +1,17 @@
+{
+  "intro": "Hey, I'm Nalin.",
+  "heroPhoto": {
+    "src": "../../images/nalin_needle.jpeg",
+    "alt": "My Photo"
+  },
+  "subtitle": {
+    "prefix": "",
+    "highlight": "",
+    "suffix": ""
+  },
+  "description": "Computer Science Engineering Student at the University of Florida",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}
