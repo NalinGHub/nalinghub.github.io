@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.nalinmehra.com/sitemap/sitemap-index.xml
+Host: https://www.nalinmehra.com
