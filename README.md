@@ -1,1 +1,1 @@
-Hey, I'm Nalin! This is my perseonal website built using Gatsby :)
+Hey, I'm Nalin! This is my personal website built using Gatsby :)
