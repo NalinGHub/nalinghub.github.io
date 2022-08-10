@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Nalin Mehra's Personal Website",
   "scripts": {
-    "clean": "gatsby clean",
+    "clean": "gatsby clean && gh-pages-clean",
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
