@@ -59,7 +59,7 @@
   ],
   "button": {
     "visible": true,
-    "label": "+ Load More",
+    "label": "See More",
     "initiallyShownInterests": 5
   }
 }

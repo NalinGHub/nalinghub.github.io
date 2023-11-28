@@ -1,6 +1,6 @@
 ---
 imageSrc: "../../images/century_tower.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "Century Tower @ UF"
 ---
  Hey! My name is Nalin Mehra. I'm from Tampa, Florida and I am currently pursuing my 
             <strong>Bachelors in Computer Science</strong> at the

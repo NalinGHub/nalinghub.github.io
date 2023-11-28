@@ -19,9 +19,7 @@
     "logo": { "text": "Nalin Mehra" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Experience", "url": "/#experience" },
-        { "label": "Projects", "url": "/#projects"}
+        { "label": "About Me!", "url": "/#about" }
       ],
       "ctaButton": {
         "openNewTab": true,
@@ -29,7 +27,8 @@
         "url": "/resume/"
       },
       "footer": [
-        { "label": "", "url": ""}
+        { "label": "", "url": ""},
+        { "label": "Back to Top :)", "url": ""}
       ]
     },
     "featureToggles": {
